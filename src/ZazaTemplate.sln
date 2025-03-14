@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Infrastructure", "HackBack.Infrastructure\ZazaTemplate.Infrastructure.csproj", "{0EB24181-18AC-4E46-B1F2-4976AF94F57A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Infrastructure", "ZazaTemplate.Infrastructure\ZazaTemplate.Infrastructure.csproj", "{0EB24181-18AC-4E46-B1F2-4976AF94F57A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Application", "HackBack.Application\ZazaTemplate.Application.csproj", "{DBB1D0AF-AFF1-460B-94FF-B23A778C20D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Application", "ZazaTemplate.Application\ZazaTemplate.Application.csproj", "{DBB1D0AF-AFF1-460B-94FF-B23A778C20D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Domain", "HackBack.Domain\ZazaTemplate.Domain.csproj", "{69C0B072-846D-4B17-9A33-6AF1A29B7C45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Domain", "ZazaTemplate.Domain\ZazaTemplate.Domain.csproj", "{69C0B072-846D-4B17-9A33-6AF1A29B7C45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Common", "HackBack.Common\ZazaTemplate.Common.csproj", "{0A042137-01B3-4369-AE5F-AD7A17EED99E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Common", "ZazaTemplate.Common\ZazaTemplate.Common.csproj", "{0A042137-01B3-4369-AE5F-AD7A17EED99E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.API", "HackBack.API\ZazaTemplate.API.csproj", "{4AF2227A-149D-4FB8-B929-1FE64D5FC5FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.API", "ZazaTemplate.API\ZazaTemplate.API.csproj", "{4AF2227A-149D-4FB8-B929-1FE64D5FC5FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Contracts", "HackBack.Contracts\ZazaTemplate.Contracts.csproj", "{870648CD-2071-457D-9C27-9BF45C1F100C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZazaTemplate.Contracts", "ZazaTemplate.Contracts\ZazaTemplate.Contracts.csproj", "{870648CD-2071-457D-9C27-9BF45C1F100C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
